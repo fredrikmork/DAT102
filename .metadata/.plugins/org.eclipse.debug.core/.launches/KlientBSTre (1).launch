@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Oblig4/src/no/hvl/dat102/klient/KlientBSTre.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="no.hvl.dat102.klient.KlientBSTre"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Oblig4"/>
+</launchConfiguration>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="119" key="DIALOG_X_ORIGIN"/>
+		<item value="291" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="manedslonn" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="månedslønn"/>
+			<item value="vitnemal"/>
+			<item value="karakter"/>
+			<item value="En"/>
+			<item value="pop"/>
+			<item value="push"/>
+			<item value="stabel"/>
+			<item value="CDsamling.length"/>
+			<item value="varetab.length"/>
+			<item value="nesteLedige"/>
+		</list>
+		<list key="replacehistory">
+			<item value="manedslonn"/>
+			<item value="karakter"/>
+			<item value="vitnemal"/>
+			<item value="dequeue"/>
+			<item value="enqueue"/>
+			<item value="kø"/>
+			<item value="antallVarer"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="290" key="DIALOG_WIDTH"/>
+		<item value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont" key="DIALOG_FONT_NAME"/>
+		<item value="409" key="DIALOG_HEIGHT"/>
+		<item value="575" key="DIALOG_X_ORIGIN"/>
+		<item value="178" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

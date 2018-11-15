@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;no.hvl.dat102.ADT.stabelADT&apos; to &apos;StabelADT&apos;&#x0A;- Original project: &apos;BalanseringU&apos;&#x0A;- Original element: &apos;no.hvl.dat102.ADT.stabelADT&apos;&#x0A;- Renamed element: &apos;no.hvl.dat102.ADT.StabelADT&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;stabelADT&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;no.hvl.dat102.ADT{stabelADT.java[stabelADT" matchStrategy="1" name="StabelADT" qualified="false" references="true" similarDeclarations="false" stamp="1520504970549" textual="false" version="1.0"/>
+</session>
